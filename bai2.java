@@ -1,5 +1,5 @@
 package tuan2;
-
+// hello world
 public class bai2 {
     public static void main(String[] args) {
         // Khai báo các biến
